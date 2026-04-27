@@ -1,0 +1,9 @@
+[project]
+name = "breakoutpong"
+version = "1.0.0"
+description = "Breakout and Pong, for Boot.dev personal project"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pygame>=2.6.1",
+]
