@@ -29,7 +29,7 @@ Download the latest `.exe` from [Releases](../../releases), or run from source (
 Requires Python 3.10+ and Pygame 2.6.1+
 ```
 git clone https://github.com/Markbu8/breakoutpong
-cd breakout-pong 
+cd breakoutpong 
 uv sync 
 uv run python main.py
 ```
