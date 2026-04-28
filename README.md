@@ -1,6 +1,6 @@
 <div align="center">
     <div>
-        <h2>"Breakout and Pong"</h2>
+        <h2>Breakout and Pong</h2>
         <em>made in pygame for <a href="https://boot.dev">boot.dev</a> personal project</em>
         <h4>literally just a mashup of pong and breakout</h4>
     </div>
